@@ -100,3 +100,4 @@ if __name__ == "__main__":
 
     print(param_2)
     print(param_3)
+Type = input("please put any thing") 
